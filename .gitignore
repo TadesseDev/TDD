@@ -1,18 +1,18 @@
-.vscodesnakeCase
-.palindromes
-.pig_latin
-.getTheTitles
-.generator-exercise
-.caesar
-.calculator
-.fibonacci
-.findTheOldest
-.caesar/caesar.jcat s
-.calculator
-.fibonacci
-.findTheOldest
-.generator-exercise
-.getTheTitles
-.palindromes
-.pig_latin
-.snakeCase
+*.vscodesnakeCase
+*.palindromes
+*.pig_latin
+*.getTheTitles
+*.generator-exercise
+*.caesar
+*.calculator
+*.fibonacci
+*.findTheOldest
+*.caesar/caesar.jcat s
+*.calculator
+*.fibonacci
+*.findTheOldest
+*.generator-exercise
+*.getTheTitles
+*.palindromes
+*.pig_latin
+*.snakeCase
