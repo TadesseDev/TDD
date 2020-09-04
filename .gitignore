@@ -15,4 +15,5 @@
 *.getTheTitles
 *.palindromes
 *.pig_latin
+
 *.snakeCase
